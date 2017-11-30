@@ -91,3 +91,6 @@
 
       // push到仓库
       git push origin master
+
+---
+from: http://oriochan.com/14732631829453.html
